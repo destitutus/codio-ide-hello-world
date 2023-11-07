@@ -1,3 +1,3 @@
 console.log("hello world")
 
-alert("hello worldtouch")
+alert("hello world")
