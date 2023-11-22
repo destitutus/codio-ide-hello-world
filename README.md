@@ -1,1 +1,3 @@
-Test plugin
+## Test plugin
+
+Just console log
