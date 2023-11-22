@@ -1,5 +1,5 @@
 {
-  "name": "Demo 'Hello world' plugin",
+  "name": "Demo 'Hello world' plugin fork",
   "type": "helper",
   "properties": {
     "user_type": "all",
